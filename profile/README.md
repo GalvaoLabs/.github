@@ -1,167 +1,53 @@
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GalvaoLabs/.github/main/assets/galvao-labs-horizontal.png" width="480" alt="Galvão Labs"/>
+<img src="https://raw.githubusercontent.com/GalvaoLabs/.github/main/assets/galvao-labs-horizontal.png" width="560" alt="Galvão Labs"/>
 
-<br/>
+<p><strong>Ideias que viram impacto.</strong><br/>
+<sub>TECNOLOGIA · INOVAÇÃO · DESENVOLVIMENTO</sub></p>
 
-### IDEIAS QUE VIRAM IMPACTO.
-
-**Ideas that create impact.**
-
-<br/>
-
-<sub>TECNOLOGIA · INOVAÇÃO · DESENVOLVIMENTO</sub>
-
-<br/><br/>
-
-<a href="https://github.com/orgs/GalvaoLabs/repositories">
-  <img src="https://img.shields.io/badge/EXPLORAR_PROJETOS-102A4B?style=for-the-badge&logo=github&logoColor=B8EB20" alt="Explorar projetos"/>
-</a>
-
-<a href="https://github.com/GalvaoLabs">
-  <img src="https://img.shields.io/badge/GITHUB-B8EB20?style=for-the-badge&logo=github&logoColor=102A4B" alt="GitHub"/>
-</a>
+<a href="https://github.com/orgs/GalvaoLabs/repositories">Explorar projetos →</a>
 
 </div>
 
 ---
 
-<div align="center">
+## Sobre a Galvão Labs
 
-## 01 — SOBRE NÓS
-### ABOUT US
+A **Galvão Labs** é uma empresa de tecnologia e inovação que desenvolve soluções digitais. Exploramos software, inteligência artificial e tecnologias emergentes para transformar ideias em ferramentas e produtos úteis, com propósito e foco em impacto.
 
-</div>
+## Áreas de atuação
 
-A **Galvão Labs** é uma empresa de tecnologia e inovação dedicada ao desenvolvimento de soluções digitais, explorando o potencial do software, da inteligência artificial e de novas tecnologias.
+- **Desenvolvimento de software** — aplicações, sistemas e ferramentas digitais.
+- **Inteligência artificial e automação** — exploração e desenvolvimento de soluções que ampliam capacidades e simplificam processos.
+- **Produtos digitais** — concepção de plataformas, ferramentas e experiências digitais.
+- **Pesquisa e prototipagem** — experimentação tecnológica e validação de novas ideias.
 
-Nosso propósito é transformar ideias em soluções que gerem valor, resolvam problemas e produzam impacto.
+## Como trabalhamos
 
----
+Buscamos clareza antes da complexidade, usamos protótipos para aprender e evoluímos as soluções a partir dos problemas que queremos resolver.
 
-**ENGLISH**
+## Projetos
 
-**Galvão Labs** is a technology and innovation company focused on developing digital solutions through software, artificial intelligence and emerging technologies.
-
-Our purpose is to turn ideas into solutions that create value, solve problems and generate impact.
-
----
-
-<div align="center">
-
-## 02 — O QUE FAZEMOS
-### WHAT WE DO
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◈ Desenvolvimento de Software</h3>
-
-Aplicações, sistemas e ferramentas digitais desenvolvidos para solucionar problemas.
-
-<sub>SOFTWARE DEVELOPMENT</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>◈ Inteligência Artificial</h3>
-
-Exploração e desenvolvimento de soluções com inteligência artificial e automação.
-
-<sub>ARTIFICIAL INTELLIGENCE</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◈ Produtos Digitais</h3>
-
-Concepção e desenvolvimento de plataformas, ferramentas e experiências digitais.
-
-<sub>DIGITAL PRODUCTS</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>◈ Pesquisa e Experimentação</h3>
-
-Prototipagem, experimentação tecnológica e desenvolvimento de novas ideias.
-
-<sub>RESEARCH & EXPERIMENTATION</sub>
-
-</td>
-</tr>
-</table>
+Conheça nossas iniciativas e acompanhe o que estamos construindo nos [repositórios públicos da Galvão Labs](https://github.com/orgs/GalvaoLabs/repositories).
 
 ---
 
-<div align="center">
+## English
 
-## 03 — NOSSA ABORDAGEM
-### OUR APPROACH
+**Galvão Labs** is a technology and innovation company building digital solutions with software, artificial intelligence, and emerging technologies.
 
-</div>
+### What we do
 
-| Pilar | Direcionamento |
-|:---|:---|
-| Inovação | Explorar novas possibilidades tecnológicas |
-| Desenvolvimento | Construir soluções funcionais |
-| Propósito | Desenvolver com objetivos claros |
-| Evolução | Aprender, experimentar e aprimorar |
-| Impacto | Transformar ideias em valor real |
+- **Software development** — applications, systems, and digital tools.
+- **Artificial intelligence and automation** — solutions that extend capabilities and simplify processes.
+- **Digital products** — platforms, tools, and digital experiences.
+- **Research and prototyping** — technology experimentation and idea validation.
 
----
+We value clarity, purposeful experimentation, and continuous improvement to turn ideas into useful solutions with real impact.
 
 <div align="center">
 
-## 04 — TECNOLOGIA
-### TECHNOLOGY
-
-<br/>
-
-<img src="https://img.shields.io/badge/SOFTWARE-102A4B?style=for-the-badge&logoColor=B8EB20"/>
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-B8EB20?style=for-the-badge&logoColor=102A4B"/>
-<img src="https://img.shields.io/badge/DIGITAL_INNOVATION-102A4B?style=for-the-badge&logoColor=B8EB20"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 05 — PROJETOS
-### OUR PROJECTS
-
-Conheça nossas iniciativas, experimentos e soluções em desenvolvimento.
-
-Explore nosso trabalho e acompanhe nossa evolução.
-
-<br/>
-
-<a href="https://github.com/orgs/GalvaoLabs/repositories">
-  <img src="https://img.shields.io/badge/VER_REPOSITÓRIOS-B8EB20?style=for-the-badge&logo=github&logoColor=102A4B"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GalvaoLabs/.github/main/assets/galvao-labs-symbol.png" width="90" alt="Símbolo Galvão Labs"/>
-
-# GALVÃO LABS
-
-### Ideias que viram impacto.
-
-<sub>TECHNOLOGY · INNOVATION · DIGITAL SOLUTIONS</sub>
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/GalvaoLabs/.github/main/assets/galvao-labs-symbol.png" width="44" alt=""/>
 
 <sub>BRASIL · BRAZIL</sub>
 
